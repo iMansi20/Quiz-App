@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class QuizApp {
 
-    // ==== Question Class ====
+    //Question Class 
     static class Question {
         String question;
         String[] options;
@@ -28,7 +28,7 @@ public class QuizApp {
         }
     }
 
-    // ==== Main Method ====
+    //Main Method
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
